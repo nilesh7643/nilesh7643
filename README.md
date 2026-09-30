@@ -1,5 +1,5 @@
 #  About Me:
-Hi  I'm Nilesh Dubey  <br>A BTech CSE student passionate about learning programming, building projects, and exploring startups.<br><br> Currently learning: Programming fundamentals & web development  <br>  <br> Interests: Software development, hackathons, startups  
+Hi  I'm Nilesh Dubey  <br>A BTech CSE student passionate about learning programming, building projects, and exploring startups.<br> <br> Interests: Software development, hackathons, startups  
 
 
 ## 🌐 Socials:
